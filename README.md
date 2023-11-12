@@ -1,0 +1,1 @@
+Use File -> Import File in Ghidra 10.4 or newer.
